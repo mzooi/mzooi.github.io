@@ -1,0 +1,92 @@
+*{
+  margi: 0px;
+  padding: 0px;
+}
+body {
+padding: 20px;
+background-color: #00FFFF;
+}
+
+#tekst {
+  text-decoration: underline;
+}
+
+h1 {
+text-align: left;
+font-family: Verdana, Geneva, Arial, ans-serif;
+font-style: normal;
+}
+
+h2 {
+text-align: left;
+font-family: Verdana, Geneva, Arial, ans-serif;
+}
+
+h3 {
+  text-align: left;
+  font-family: Verdana, Geneva, Arial, ans-serif;
+}
+
+p {
+text-align: justify;
+border: 4px solid powderblue;
+border-radius: 20px 20px 20px 20px;
+padding: 20px;
+margin: 20px;
+font-size: 18px
+}
+p.rood{
+  color: red;
+}
+p.groen{
+  color: green;
+}
+.#uitleg {
+  font-weight: bold;
+  font-size: 18px;
+}
+p.vraag{
+  background-color: green;
+  color: white;
+}
+p.antwoord{
+  background-color: green;
+  color: green;
+}
+
+p.antwoord:hover {
+  color: white;
+}
+
+p.menu{
+  border: 6px dashed brown;
+  border-radius: 10px 10px 10px 10px;
+  padding: 20px;
+  margin: 20px;
+  width: 400px;
+}
+
+table {
+border: 4px solid powderblue;
+border-radius: 20px 20px 20px 20px;
+padding: 20px;
+margin: 20px;
+}
+
+ul {
+border: 4px solid powderblue;
+border-radius: 20px 20px 20px 20px;
+padding: 30px;
+margin: 20px;
+font-family: Verdana, Geneva, Arial, ans-serif;
+font-size: 18px ;
+}
+
+ol{
+border: 4px solid powderblue;
+border-radius: 20px 20px 20px 20px;
+padding: 30px;
+margin: 20px;
+font-family: Verdana, Geneva, Arial, ans-serif;
+font-size: 18px ;
+}
